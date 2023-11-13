@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9299b87244143b5a",
+        "id": "ff9102b023f81dd9",
         "type": "tabs",
         "children": [
           {
@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 - 工作学习/学习/CIT594/工作学习.md",
-                "mode": "source",
+                "file": "40 - Obsidian/主页/00. 主页.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "f1901ebe09c420b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar_view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 - 工作学习/学习/CIT594/工作学习.md"
+                "file": "40 - Obsidian/主页/00. 主页.md"
               }
             }
           },
@@ -119,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 - 工作学习/学习/CIT594/工作学习.md",
+                "file": "40 - Obsidian/主页/00. 主页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,23 +178,29 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
       "homepage:Open homepage": false,
+      "obsidian-memos:Memos": false,
       "templater-obsidian:Templater": false,
       "big-calendar:Big Calendar": false,
-      "obsidian-memos:Memos": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "53c2b5d46760f3a1",
+  "active": "f1901ebe09c420b4",
   "lastOpenFiles": [
+    "00 - 每日日记/DailyNote/2023年11月06日.md",
+    "40 - Obsidian/主页/00. 主页.md",
+    "00 - 每日日记/DailyNote/2023年11月07日.md",
+    "00 - 每日日记/DailyNote/2023年11月13日.md",
+    "20 - 工作学习/工作/绩效合约.md",
+    "00 - 每日日记/DailyNote/2023年11月11日.md",
+    "00 - 每日日记/DailyNote/2023年11月09日.md",
+    "20 - 工作学习/学习/CIT594/工作学习.md",
     "40 - Obsidian/附件/1699356410842.jpg",
     "40 - Obsidian/附件/Pasted image 20231107192557.png",
     "20 - 工作学习/学习/CIT594/日常学习.md",
     "20 - 工作学习/学习/CIT593/00. MCIT593.md",
     "20 - 工作学习/学习/00. 学习.md",
     "20 - 工作学习/学习/英语学习/00. 英语学习.md",
-    "40 - Obsidian/主页/00. 主页.md",
     "40 - Obsidian/主页/00. 导航.md",
-    "00 - 每日日记/DailyNote/2023年11月07日.md",
     "20 - 工作学习/学习/论文：效率分析.md",
     "20 - 工作学习/工作/浙大理工合作数字化平台.md",
     "10 - 人员管理/家人/秦某.md",
@@ -197,13 +211,8 @@
     "20 - 工作学习/工作/00. 工作.md",
     "10 - 人员管理/家人/00. 人员.md",
     "10 - 人员管理/宠物/00. 宠物.md",
-    "00 - 每日日记/DailyNote/2023年11月09日.md",
-    "20 - 工作学习/工作/绩效合约.md",
     "00 - 每日日记/DailyNote/2022年05月13日.md",
     "20 - 工作学习/代码库/Dataviewjs参考.md",
-    "20 - 工作学习/代码库/测试区.md",
-    "00 - 每日日记/DailyNote/2023年11月11日.md",
-    "40 - Obsidian/模板/每日日记模板.md",
-    "00 - 每日日记/DailyNote/2022年06月07日.md"
+    "20 - 工作学习/代码库/测试区.md"
   ]
 }
