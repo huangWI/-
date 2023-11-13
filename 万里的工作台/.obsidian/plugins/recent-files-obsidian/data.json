@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
       "basename": "00. 主页",
       "path": "40 - Obsidian/主页/00. 主页.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "修复项目统计20220530",
       "path": "40 - Obsidian/脚本/修复项目统计20220530.md"
-    },
-    {
-      "basename": "Obsidian活动汇总",
-      "path": "40 - Obsidian/脚本/Obsidian活动汇总.md"
     }
   ],
   "omittedPaths": [],

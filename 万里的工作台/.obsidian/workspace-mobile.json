@@ -14,22 +14,8 @@
               "type": "calendar_view",
               "state": {}
             }
-          },
-          {
-            "id": "db5035aa30771356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 - Obsidian/主页/00. 主页.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "40 - Obsidian/主页/00. 主页.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,9 +101,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "40 - Obsidian/主页/00. 主页.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -139,9 +122,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "db5035aa30771356",
+  "active": "94f31acb14595a5d",
   "lastOpenFiles": [
-    "Dataview模板合集.md",
-    "40 - Obsidian/主页/00. 主页.md"
+    "00 - 每日日记/DailyNote/2023年11月14日.md",
+    "未命名.canvas",
+    "40 - Obsidian/主页/00. 主页.md",
+    "Dataview模板合集.md"
   ]
 }
