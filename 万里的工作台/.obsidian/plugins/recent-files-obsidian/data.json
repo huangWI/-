@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
       "basename": "00. 主页",
       "path": "40 - Obsidian/主页/00. 主页.md"
     },
     {
+      "basename": "浙大理工合作数字化平台",
+      "path": "20 - 工作学习/工作/浙大理工合作数字化平台.md"
+    },
+    {
       "basename": "2023年11月13日",
       "path": "00 - 每日日记/DailyNote/2023年11月13日.md"
+    },
+    {
+      "basename": "2023年11月14日",
+      "path": "00 - 每日日记/DailyNote/2023年11月14日.md"
+    },
+    {
+      "basename": "00. 参考汇总",
+      "path": "40 - Obsidian/主页/00. 参考汇总.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
     },
     {
       "basename": "2023年11月06日",
@@ -59,10 +71,6 @@
     {
       "basename": "论文：效率分析",
       "path": "20 - 工作学习/学习/论文：效率分析.md"
-    },
-    {
-      "basename": "浙大理工合作数字化平台",
-      "path": "20 - 工作学习/工作/浙大理工合作数字化平台.md"
     },
     {
       "basename": "秦某",
@@ -191,14 +199,6 @@
     {
       "basename": "每日总结汇总20220606",
       "path": "40 - Obsidian/脚本/每日总结汇总20220606.md"
-    },
-    {
-      "basename": "小鸟统计20220606",
-      "path": "40 - Obsidian/脚本/小鸟统计20220606.md"
-    },
-    {
-      "basename": "修复项目统计20220530",
-      "path": "40 - Obsidian/脚本/修复项目统计20220530.md"
     }
   ],
   "omittedPaths": [],
